@@ -1,5 +1,9 @@
 Experimental PLATFORMIO ESP8266 example for accessing the magicpoi API.
 
+To get this to work, you will need to fill in your own SSID and password, in the relevant place in "main.cpp"
+
+To change the image displayed, edit the last line of "main.cpp" - "showLittleFSImage(x);"
+
 It is not necessary to do so to test this sketch, however you can sign up to the image sharing 
 site at http://magicpoi.circusscientist.com to upload your own images. 
 
